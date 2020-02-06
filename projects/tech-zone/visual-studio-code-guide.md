@@ -1,5 +1,5 @@
 ---
-layout: doc
+layout: default
 ---
 # Visual Studio Code Guidelines
 
