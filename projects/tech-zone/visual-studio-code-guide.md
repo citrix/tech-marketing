@@ -15,7 +15,9 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 1. Download and install Visual Studio code: [Visual Studio Download](https://code.visualstudio.com/)
 1. Once installed, launch Visual Studio Code to install the correct extension. This extension, when configured properly, will look for errors in the markdown language.
-    `![Visual Studio Code Extensions](/media/visual-studio-code-guide_vsc-extensions.png)`
+
+    ![Visual Studio Code Extensions](/media/visual-studio-code-guide_vsc-extensions.png)
+
 1. Search for the extension "markdownlint".  Install
 1. In the local file system, navigate to %AppData%\Code\User.  Create a file called "settings.json".
 1. Edit settings.json in Notepad.  Paste in the following rules (including the brackets)
@@ -66,7 +68,8 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 1. Download GitHub Desktop [GitHub Desktop Download](https://desktop.github.com)
 1. When prompted, sign in to GitHub
 1. Select the Tech Zone repository and select clone.  This process will take some time as a full clone of the Tech Zone is being stored on your endpoint.
-`![GitHub Repository Clone](/media/visual-studio-code-guide_clone.png)`
+
+    ![GitHub Repository Clone](/media/visual-studio-code-guide_clone.png)
 
 ## GitHub Desktop Usage
 
@@ -75,21 +78,34 @@ Once the clone is complete, you get to the main GitHub Desktop screen.
 1. Select the correct repository.
 1. Select the correct branch for your changes.
 1. Select "Open in Visual Studio Code"
-    `![GitHub Desktop Branch Selection](/media/visual-studio-code-guide_desktop-repo-branch-edit.png)`
+
+    ![GitHub Desktop Branch Selection](/media/visual-studio-code-guide_desktop-repo-branch-edit.png)
+
 1. In Visual Studio Code, navigate to the correct article in the left-side navigation tree.
-    `![Visual Studio Code Navigation](/media/visual-studio-code-guide_vsc-navigation.png)`
+
+    ![Visual Studio Code Navigation](/media/visual-studio-code-guide_vsc-navigation.png)
+
 1. As you edit in markdown, errors are shown with a squiggly line.  There is a warning triangle icon in the lower left identiting how many markdown errors are detected. Selecting the triangle provides additional details on the errors.
-    `![Visual Studio Code Markdown Errors](/media/visual-studio-code-guide_md-errors.png)`
+
+    ![Visual Studio Code Markdown Errors](/media/visual-studio-code-guide_md-errors.png)
+
 1. If you select the triangle in the Problems section, Visual Studio Code will fix many of the errors for you.
-    `![Visual Studio Code Markdown Corrections](/media/visual-studio-code-guide_error-help.png)`
+
+    ![Visual Studio Code Markdown Corrections](/media/visual-studio-code-guide_error-help.png)
+
 1. If you have images to add, right-click the correct media folder and select "Reveal in Explorer". Simply copy your files into the folder, making sure they are named according to standards.
-    `![Visual Studio Code Media](/media/visual-studio-code-guide_reveal-explorer.png)`
+
+    ![Visual Studio Code Media](/media/visual-studio-code-guide_reveal-explorer.png)
+
 1. Once done modifying the GitHub page, select File - Save within Visual Studio Code.
 1. Close Visual Studio Code
 1. GitHub Desktop is now visible. You can see the changes you made to the current branch.  Add a brief description and select Commit.
-    `![Visual Studio Code Commit Changes](/media/visual-studio-code-guide_commit-changes.png)`
+
+    ![Visual Studio Code Commit Changes](/media/visual-studio-code-guide_commit-changes.png)
+
 1. These changes are only stored locally.  You need to push them to GitHub by selecting "Push Origin".
-    `![Visual Studio Code Push Origin](/media/visual-studio-code-guide_push-origin.png)`
+
+    ![Visual Studio Code Push Origin](/media/visual-studio-code-guide_push-origin.png)
 
 You can conintue modifying files within this branch according to your project. Once done and ready to publish, make sure the final updates are pushed to origin, then inform the Slack channel for publication.
 
