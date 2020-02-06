@@ -9,7 +9,7 @@ layout: default
 
 ## Overview
 
-Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech Zone content. A set of rules is added to Visual Studio Code to validate proper markdown settings. In order to use this, the local enviornment must be setup and configured.  This guide provides the steps needed to configure.
+Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech Zone content. A set of rules is added to Visual Studio Code to validate proper markdown settings. In order to use this, the local environment must be set up and configured. This guide provides the steps needed to configure.
 
 ## Visual Studio Code Setup
 
@@ -18,9 +18,9 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
     ![Visual Studio Code Extensions](/media/visual-studio-code-guide_vsc-extensions.png)
 
-1. Search for the extension "markdownlint".  Install
-1. In the local file system, navigate to %AppData%\Code\User.  Create a file called "settings.json".
-1. Edit settings.json in Notepad.  Paste in the following rules (including the brackets)
+1. Search for the extension "markdownlint". Install
+1. In the local file system, navigate to %AppData%\Code\User. Create a file called "settings.json".
+1. Edit settings.json in Notepad. Paste in the following rules (including the brackets)
 
 ```text
 {
@@ -67,7 +67,7 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 1. Download GitHub Desktop [GitHub Desktop Download](https://desktop.github.com)
 1. When prompted, sign in to GitHub
-1. Select the Tech Zone repository and select clone.  This process will take some time as a full clone of the Tech Zone is being stored on your endpoint.
+1. Select the Tech Zone repository and select clone. This process will take some time as a full clone of the Tech Zone is being stored on your endpoint.
 
     ![GitHub Repository Clone](/media/visual-studio-code-guide_clone.png)
 
@@ -85,7 +85,7 @@ Once the clone is complete, you get to the main GitHub Desktop screen.
 
     ![Visual Studio Code Navigation](/media/visual-studio-code-guide_vsc-navigation.png)
 
-1. As you edit in markdown, errors are shown with a squiggly line.  There is a warning triangle icon in the lower left identiting how many markdown errors are detected. Selecting the triangle provides additional details on the errors.
+1. As you edit in markdown, errors are shown with a squiggly line.  There is a warning triangle icon in the lower left identifying how many markdown errors are detected. Selecting the triangle provides additional details on the errors.
 
     ![Visual Studio Code Markdown Errors](/media/visual-studio-code-guide_md-errors.png)
 
@@ -99,14 +99,14 @@ Once the clone is complete, you get to the main GitHub Desktop screen.
 
 1. Once done modifying the GitHub page, select File - Save within Visual Studio Code.
 1. Close Visual Studio Code
-1. GitHub Desktop is now visible. You can see the changes you made to the current branch.  Add a brief description and select Commit.
+1. GitHub Desktop is now visible. You can see the changes you made to the current branch. Add a brief description and select Commit.
 
     ![Visual Studio Code Commit Changes](/media/visual-studio-code-guide_commit-changes.png)
 
-1. These changes are only stored locally.  You need to push them to GitHub by selecting "Push Origin".
+1. These changes are only stored locally. You need to push them to GitHub by selecting "Push Origin".
 
     ![Visual Studio Code Push Origin](/media/visual-studio-code-guide_push-origin.png)
 
-You can conintue modifying files within this branch according to your project. Once done and ready to publish, make sure the final updates are pushed to origin, then inform the Slack channel for publication.
+You can continue modifying files within this branch according to your project. Once done and ready to publish, make sure the final updates are pushed to origin, then inform the Slack channel for publication.
 
 Once the upload to GitHub is complete, verify the page renders properly by going to page within the browser.
