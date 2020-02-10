@@ -19,7 +19,8 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
     ![Visual Studio Code Extensions](/media/visual-studio-code-guide_vsc-extensions.png)
 
 1. Search for the extension "markdownlint". Install
-1. In the local file system, navigate to %AppData%\Code\User. Create a file called "settings.json".
+1. In the local file system, navigate to `%AppData%\Code\User` (Windows) or `~/Library/Application Support/Code/User` (Mac OS).
+1. Create a file called "settings.json"
 1. Edit settings.json in Notepad. Paste in the following rules (including the brackets)
 
 ```text
@@ -62,6 +63,8 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 1.  Save and close "settings.json"
 1.  Close Visual Studio Code
+
+**Note:** You can also download extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). This extension adds various features to VSC, including ability to use common keyboard shortcuts (Ctrl + B), table of contents, auto preview or simplified link creation.
 
 ## GitHub Desktop Setup
 
