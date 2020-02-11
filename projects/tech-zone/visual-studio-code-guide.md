@@ -88,6 +88,7 @@ Once the clone is complete, you get to the main GitHub Desktop screen.
 
     ![Visual Studio Code Navigation](/media/visual-studio-code-guide_vsc-navigation.png)
 
+1. As you edit, you can see an in-app preview of the page by typing the following key combination: In Windows use `Ctrl+K`, then type `V`. In Mac OS, use `Command+V`. 
 1. As you edit in markdown, errors are shown with a squiggly line.  There is a warning triangle icon in the lower left identifying how many markdown errors are detected. Selecting the triangle provides additional details on the errors.
 
     ![Visual Studio Code Markdown Errors](/media/visual-studio-code-guide_md-errors.png)
