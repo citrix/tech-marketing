@@ -42,3 +42,5 @@ Before you can suggest any edits on Citrix Tech Zone, you have to accept our con
 1. To edit the article, you can either use the web-based editor (as described in [readme](https://github.com/citrix/en-us-tech-zone/blob/master/README.md#3---create-content) or follow our [guide for Visual Studio Code](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html)). To use the web-based editor, click edit icon:
 
 ![GitHub Page](/media/crowdsourcing_edit.png)
+
+Have fun!
