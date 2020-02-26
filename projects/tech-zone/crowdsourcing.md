@@ -36,9 +36,9 @@ Before you can suggest any edits on Citrix Tech Zone, you have to accept our con
 1. After logon, we check if you've already accepted contribution agreement
 1. If not, following screen is displayed and you need to accept the agreement
 
-    ![GitHub Authentication](/media/crowdsourcing_agreement.png)
+    ![Contribution Agreement](/media/crowdsourcing_agreement.png)
 
 1. After you accept the agreement, you are automatically redirected to Tech Zone repository (hosted on GitHub)
 1. To edit the article, you are either use web-based editor (as described in [readme](https://github.com/citrix/en-us-tech-zone/blob/master/README.md#3---create-content) or use follow our [guide for Visual Studio Code](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html)). To use web-based editor, click on edit icon:
 
-![GitHub Authentication](/media/crowdsourcing_edit.png.png)
+![GitHub Page](/media/crowdsourcing_edit.png)
