@@ -114,3 +114,12 @@ Once the clone is complete, you get to the main GitHub Desktop screen.
 You can continue modifying files within this branch according to your project. Once done and ready to publish, make sure the final updates are pushed to origin, then inform the Slack channel for publication.
 
 Once the upload to GitHub is complete, verify the page renders properly by going to page within the browser.
+
+## Summary
+
+Below is summary overview of steps required to publish content on GitHub. Don't remember - until you **Push** your changes, central GitHub is not updated.
+
+- **Commit** - Save changes to your local database
+- **Push** - Upload changes from your local database to central database (GitHub)
+
+    ![Visual Studio Code Process Overview](/media/visual-studio-code-guide_process.png)
