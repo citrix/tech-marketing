@@ -117,9 +117,12 @@ Once the upload to GitHub is complete, verify the page renders properly by going
 
 ## Summary
 
-Below is summary overview of steps required to publish content on GitHub. Don't remember - until you **Push** your changes, central GitHub is not updated.
+Below is summary overview of steps required to publish content on GitHub and quick reminder of terminology.
 
-- **Commit** - Save changes to your local database
+- **Save** - Save changes to your local working folder
+- **Commit** - Save changes from your working folder to your local database
 - **Push** - Upload changes from your local database to central database (GitHub)
 
-    ![Visual Studio Code Process Overview](/media/visual-studio-code-guide_process.png)
+    [![Visual Studio Code Process Overview](/media/visual-studio-code-guide_process.png)](/media/visual-studio-code-guide_process.png)
+
+Don't forget - until you **Push** your changes, central GitHub is not updated and your changes are not visible to others.
