@@ -123,6 +123,6 @@ Below is summary overview of steps required to publish content on GitHub and qui
 - **Commit** - Save changes from your working folder to your local database
 - **Push** - Upload changes from your local database to central database (GitHub)
 
-    [![Visual Studio Code Process Overview](/media/visual-studio-code-guide_process.png)](/media/visual-studio-code-guide_process.png)
+    [![Visual Studio Code Process Overview](/media/visual-studio-code-guide_process.png)](/tech-marketing/projects/tech-zone/media/visual-studio-code-guide_process.png)
 
 Don't forget - until you **Push** your changes, central GitHub is not updated and your changes are not visible to others.
