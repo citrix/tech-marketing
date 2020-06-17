@@ -25,39 +25,38 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 ```text
 {
+    "git.enableSmartCommit": true,
 
-"git.enableSmartCommit": true,
+    "git.confirmSync": false,
 
-"git.confirmSync": false,
+    "git.autofetch": true,
 
-"git.autofetch": true,
+    "markdownlint.config": {
 
-"markdownlint.config": {
+        "MD003": { "style": "atx" },
 
-"MD003": { "style": "atx" },
+        "MD007": { "indent": 4 },
 
-"MD007": { "indent": 4 },
+        "MD009": { "br_spaces": 2 },
 
-"MD009": { "br_spaces": 2 },
+        "MD013": false,
 
-"MD013": false,
+        "MD024":false,
 
-"MD024":false,
+        "MD026": { "punctuation": ".,;:!" },
 
-"MD026": { "punctuation": ".,;:!" },
+        "MD030": { "ul_single": 2,
 
-"MD030": { "ul_single": 2,
+        "ol_single": 2,
 
-"ol_single": 2,
+        "ul_multi": 2,
 
-"ul_multi": 2,
+        "ol_multi": 2 },
 
-"ol_multi": 2 },
+        "MD033": true,
 
-"MD033": true,
-
-"MD040": false,
-
+        "MD040": false,
+    }
 }
 ```
 
