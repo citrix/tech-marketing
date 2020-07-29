@@ -19,6 +19,8 @@ Providing a user centric experience score
 
   ![Performance Analytics Principles](/media/demo-guide-performace-analytics_1.png)
 
+    ![Performance Analytics Principles](/media/demo-guide-performace-analytics_2.png)
+
 
 
 
