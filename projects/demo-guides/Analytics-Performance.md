@@ -19,7 +19,7 @@ Providing a user centric experience score
 
   ![Performance Analytics Principles](/media/demo-guide-performace-analytics_1.png)
 
-    ![Performance Analytics Principles](/media/demo-guide-performace-analytics_2.png)
+  ![Performance Analytics](/media/demo-guide-performace-analytics_2.png)
 
 
 
@@ -57,23 +57,23 @@ Site based & also different aspects of the user session
 
 Talk through the different metrics making up the user score.
 
-Pic 3
+  ![Performance Analytics](/media/demo-guide-performace-analytics_2.png)
 
 How these can be viewed looked back on over a period of time if required
 
-Pic 4
+  ![Performance Analytics](/media/demo-guide-performace-analytics_3.png)
 
 Or viewed based on site
 
-Pic 5
+  ![Performance Analytics](/media/demo-guide-performace-analytics_4.png)
 
 > Note: Important point to note is that the score threshold is recalibrated every week based on the last 30 days of data
 
-Pic 6
+  ![Performance Analytics](/media/demo-guide-performace-analytics_5.png)
 
 Drill into users with poor UX
 
-Pic 7
+  ![Performance Analytics](/media/demo-guide-performace-analytics_6.png)
 
 ### Factors affecting UX
 - Session Availability
@@ -92,11 +92,11 @@ Example, session logon duration
 Drill into Profile load for possible reasons
 Large profile causing logon to slow down
 
-Pic 8
+  ![Performance Analytics](/media/demo-guide-performace-analytics_7.png)
 
 ## User Sessions
 
-Pic 9
+  ![Performance Analytics](/media/demo-guide-performace-analytics_8.png)
 
 Drill into session failures
 Talk through the filters on the left hand side
@@ -105,23 +105,23 @@ Talk through the filters on the left hand side
 - Delivery Group
 - ETC…
 
-Pic 10
+  ![Performance Analytics](/media/demo-guide-performace-analytics_9.png)
 
 Endpoint OS & Workspace App Version can be useful metrics to isolate version issues & report on client side updates
 
 ## Session Responsiveness  & Session Logon Duration
 
-pic 10
+  ![Performance Analytics](/media/demo-guide-performace-analytics_10.png)
 
-pic 11
+  ![Performance Analytics](/media/demo-guide-performace-analytics_11.png)
 
 Drill into Poor Sessions
 
-Pic 12
+  ![Performance Analytics](/media/demo-guide-performace-analytics_12.png)
 
 Identify a user with a poor experience & select the drop down to show mor information on what would be causing the issue
 
-pic 13
+  ![Performance Analytics](/media/demo-guide-performace-analytics_13.png)
 
 ## Requirements
 
