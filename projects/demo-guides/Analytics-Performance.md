@@ -10,8 +10,6 @@ layout: default
 
 ## Overview
 
-
-
 Secure Workspace & Improve user experience, machine learning will pull data from CVAD, CEM, Content & Collaboration & Networking & Access Control
 Providing a user centric experience score
 
@@ -21,12 +19,10 @@ Providing a user centric experience score
 
   ![Performance Analytics](/media/demo-guide-performace-analytics_2.png)
 
-
-
-
 Pulling information in from multiple locations & processed by ML to issue a performance score based on other users & historic data
 Broken down into users or infrastructure.
 Site based & also different aspects of the user session
+
 - User Experience
 - User Sessions
 - Session Failures
@@ -34,20 +30,20 @@ Site based & also different aspects of the user session
 - Session Logon Duration
 
 ## Benefits
+
 - Accurate Capacity Management
 - Cost Savings by enabling customers to right size their environment
 - Improved productivity by ensuring resource availability
 - Continually evolving & learning to improve the whole ecosystem
 
-
-
 >Note: Especially valuable in these times of home working & distributed workforce. Enabling insights into where capacity is needed & where performance issues for specific users may lie
 
 ## Citrix Differentiators
+
 - Multiple different sources go to make up one user experience score
-  - All Citrix Services
-  - Azure AD
-  -  Microsoft Security Graph
+    - All Citrix Services
+    - Azure AD
+        -  Microsoft Security Graph
 - ICA Traffic visibility
 - E2E visibility
 - Actionable insights
@@ -76,6 +72,7 @@ Drill into users with poor UX
   ![Performance Analytics](/media/demo-guide-performace-analytics_6.png)
 
 ### Factors affecting UX
+
 - Session Availability
 - Session Logon Duration
 - Session Reliability
@@ -83,12 +80,14 @@ Drill into users with poor UX
 
 For each classification, select the drop down & talk through the different contributing factors
 Example, session logon duration
+
 - GPO
 - Profile Load
 - Logon script
 - ETC…
 
 ### Prescriptive RCA
+
 Drill into Profile load for possible reasons
 Large profile causing logon to slow down
 
@@ -100,10 +99,11 @@ Large profile causing logon to slow down
 
 Drill into session failures
 Talk through the filters on the left hand side
+
 - Endpoint OS
 - Workspace App Version
 - Delivery Group
-- ETC…
+-  ETC…
 
   ![Performance Analytics](/media/demo-guide-performace-analytics_9.png)
 
@@ -126,6 +126,7 @@ Identify a user with a poor experience & select the drop down to show mor inform
 ## Requirements
 
 Outbound Connection over 443
+
 - Citrix Cloud Account
 - At least a trial or entitlement to the Analytics service
 - The trial request is auto approve & should be instant
@@ -135,18 +136,16 @@ Outbound Connection over 443
 ## More Info & Documentation
 
 Citrix Performance Analytics
-https://www.citrix.com/products/citrix-analytics-performance/
+<https://www.citrix.com/products/citrix-analytics-performance/>
 
 Citrix Analytics for Performance (Performance Analytics)
-https://docs.citrix.com/en-us/performance-analytics.html
+<https://docs.citrix.com/en-us/performance-analytics.html>
 
 Data Governance
-https://docs.citrix.com/en-us/performance-analytics/data-governance.html
+<https://docs.citrix.com/en-us/performance-analytics/data-governance.html>
 
 Onboarding
-https://docs.citrix.com/en-us/performance-analytics/onboarding.html
+<https://docs.citrix.com/en-us/performance-analytics/onboarding.html>
 
 Citrix Analytics: Demystifying Data Source On-boarding
-https://www.citrix.com/blogs/2018/08/10/citrix-analytics-demystifying-data-source-on-boarding/
-
-
+<https://www.citrix.com/blogs/2018/08/10/citrix-analytics-demystifying-data-source-on-boarding/>
