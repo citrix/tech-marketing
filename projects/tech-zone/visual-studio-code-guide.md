@@ -75,6 +75,8 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 1. Make sure that your Citrix email address and name is configured in **File** -> **Options** -> **Git**. This is a required step to prevent alerts when publishing your content.
 
+    ![GitHub Account](/media/visual-studio-code-guide_email.png)
+
 ## GitHub Desktop Usage
 
 Once the clone is complete, you get to the main GitHub Desktop screen.
