@@ -14,7 +14,9 @@ Few best practices for social media promotions:
 *  Content does not always need to be promoted on the day it has been released
 *  Do not promote more than 1 article per day
 *  Do not promote content on Friday or weekend
+*  Content should be promoted in morning hours (EST time)
 *  Always try to include image from article in social media. If there are no good diagrams, use a screenshot of article itself
+*  Use #CitrixTechZone tag (for reporting/analytics)
 
 All content is promoted on following sites:
 
