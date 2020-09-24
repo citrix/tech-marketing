@@ -99,7 +99,7 @@ Generally - if you need to use multiple paragraphs of text, bullet points inside
 
 ## 3 - Review and Release Content
 
-When you are ready for content review, contact Tech Zone team. After technical, styling and grammar reviews are complete, you content will be released. Before asking for review - please make sure there are no markdown violations in your file (this is reported by Visual Studio Code).
+When you are ready for content review, contact Tech Zone team. After technical, styling and grammar reviews are complete, you content will be released. Before asking for review - please make sure there are no markdown violations in your file (this is reported by Visual Studio Code). Subject matter expert will help you and guide you through review process.
 
 ## Most Common Mistakes
 
@@ -115,7 +115,11 @@ Versioning systems (like Git or Subversion) are useful for professional develope
 
 **To fix:** Always confirm that you are using the right branch before making any changes.
 
-![Finding Branch](/_readme/readme_branch.png)
+### Changes not uploaded to GitHub
+
+When you make changes on your local machine, you need to not only save them (`commit` in git terminology), but also upload to central database (`push` in git terminology). Always make sure that you are doing both commit and push operations.
+
+**Note:** All your content development is done in a dedicated branch. You can push changes as often as you want and there is nothing that you can do that would have negative impact on Tech Zone.
 
 ### Spaces after list markers
 
