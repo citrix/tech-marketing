@@ -7,6 +7,8 @@ layout: default
 
 **Author:** [Martin Zugec](https://twitter.com/martinzugec)
 
+![Subject Matter Expert process overview](/media/role-sme-overview.jpg)
+
 ## Mission Statement
 
 Help with making sure that Tech Zone content is relevant to our audience and provide continuous support and guidance for our authors/contributors.
