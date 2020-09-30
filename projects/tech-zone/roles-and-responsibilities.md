@@ -13,10 +13,10 @@ Here are various roles involved in Tech Zone release process:
 
 [SME](https://citrix.github.io/tech-marketing/projects/tech-zone/role-sme.html)
 
+[Copy Editor](https://citrix.github.io/tech-marketing/projects/tech-zone/role-copy-editor.html)
+
 [Social Media](https://citrix.github.io/tech-marketing/projects/tech-zone/role-social-media.html)
 
 [Operator](https://citrix.github.io/tech-marketing/projects/tech-zone/role-operator.html)
-
-[Copy Editor](https://citrix.github.io/tech-marketing/projects/tech-zone/role-copy-editor.html)
 
 ![Tech Zone process overview](/media/roles-and-responsibilities-simple.jpg)
