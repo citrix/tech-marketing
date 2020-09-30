@@ -24,7 +24,7 @@ Subject matter expert is primarily responsible for following areas:
 
 Following is current list of SMEs for different technologies:
 
- Technology | Primary | Secondary |
+| Technology | Primary | Secondary |
 |------------|:-------:|-----------|
 | Analytics | Ana Ruiz | Dan Feller |
 | Endpoint Management | Frank Srp | Dan Feller |
