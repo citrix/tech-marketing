@@ -11,6 +11,8 @@ Welcome to the documentation project for [techzone.citrix.com](https://techzone.
 
 Tech Zone has always been oriented towards technical community, but now you can help us to make it better by suggesting changes or even writing the whole articles to share with fellow Citrix fans.
 
+![Tech Zone process overview](/media/role-contributor-overview.jpg)
+
 ## Contact Tech Zone administrators
 
 If you need any help, reach out to Tech Zone team. Preferred method of contacting Citrix Tech Zone team is through one of the dedicated Slack channels. For Citrix employees, use an internal Slack channel [#tm-techzone-contributors](https://citrix.slack.com/archives/C011E3EMX8W). For everyone else, use the [Tech Zone Slack channel](https://worldofeuc.slack.com/messages/CLKSAPFUG) at [World of EUC](https://communityinviter.com/apps/worldofeuc/world-of-euc-project) workspace.

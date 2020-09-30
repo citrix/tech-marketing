@@ -5,9 +5,11 @@ layout: default
 
 **Author:** [Martin Zugec](https://twitter.com/martinzugec)
 
-## Overview
+## Mission Statement
 
 Social media promotion is done for all new content released on Citrix Tech Zone and also for updated content (if change is significant and deserves attention, for example adding new chapters to existing documents).
+
+![Tech Zone process overview](/media/role-social-media-overview.jpg)
 
 Few best practices for social media promotions:
 

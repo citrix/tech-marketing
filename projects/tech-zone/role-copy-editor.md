@@ -3,13 +3,13 @@ layout: default
 ---
 # Citrix Tech Zone - Copy Editor Role
 
-## Contributors
-
 **Author:** [Martin Zugec](https://twitter.com/martinzugec)
 
-## Overview
+## Mission Statement
 
-Copy editor is responsible for making sure that content meets quality and style requirements. Copy editor is NOT responsible for editing the text itself. Primary tool to use is Visual Studio Code (for markdown violations) and Acrolinx plugin (for style and grammar).
+Copy editor is responsible for making sure that content meets our quality and style requirements. Copy editor is NOT responsible for editing the text itself. Primary tool to use is Visual Studio Code (for markdown violations) and Acrolinx plugin (for style and grammar).
+
+![Tech Zone process overview](/media/role-copy-editor-overview.jpg)
 
 ## Responsibilities
 
