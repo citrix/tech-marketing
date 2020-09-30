@@ -42,13 +42,15 @@ Follow this [simple guide](https://citrix.github.io/tech-marketing/projects/tech
 
 ## 1 - Request a branch
 
-To make any changes to Tech Zone, you have to use a dedicated branch (think about it as an isolated clone of Tech Zone only to be used for your new article or update of an existing article). Another approach is to use you own fork of Tech Zone and just create a pull request, but this approach is recommended only for advanced GitHub users. If you are familiar with private forks and concept of pull requests, you can use this method.
+To make any changes to Tech Zone, you have to use a dedicated branch (think about it as an isolated clone of Tech Zone only to be used for your new article or update of an existing article). Branch is required for new articles, but also if you are going to update an existing article.
+
+Another approach is to use you own fork of Tech Zone and just create a pull request, but this approach is recommended only for advanced GitHub users. If you are familiar with private forks and concept of pull requests, you can use this method.
 
 1.  Use one of the dedicated Slack channels to request a new branch. For new article, specify section of Tech Zone (e.g. Tech Insight) and title of the article (e.g. "Workspace app"). For existing, simply paste a URL.
 2.  Wait for link to your new branch. You get it through Slack or by email from Tech Zone team.
 3.  When you click on link, GitHub web editor opens with article you are working on. Read [Visual Studio Code (VSC) guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) to learn how to create a local copy of this branch for editing.
 
-You request for new branch will be reviewed by one of our subject matter experts (SME). SME is going to become your best friend - he will be your primary contact for everything Tech Zone related, help you with the content creation and take care of your doing the whole review and release process.
+Your request for new branch will be reviewed by one of our subject matter experts (SME). SME is going to become your best friend - he will be your primary contact for everything Tech Zone related, help you with the content creation and take care of your doing the whole review and release process.
 
 ## 2 - Create content
 
@@ -136,4 +138,4 @@ Standard markdown syntax requires one space after list character. Tech Zone impl
 
 Normal format of links in markdown language is `[text](https://url.com)`. However, when referencing content hosted on docs.citrix.com, you should use relative links only, starting with `/en-us/`. For example if you want to reference `https://docs.citrix.com/en-us/citrix-virtual-apps-desktops-service.html`, you should use syntax `[Citrix Virtual Apps and Desktops service](/en-us/citrix-virtual-apps-desktops-service.html)`. This is important to support other languages - relative links are automatically converted to localized language if page is available.
 
-Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).
+Curious about other Tech Zone roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).
