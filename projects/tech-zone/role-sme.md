@@ -3,11 +3,7 @@ layout: default
 ---
 # Citrix Tech Zone - Subject Matter Expert Role
 
-## Contributors
-
 **Author:** [Martin Zugec](https://twitter.com/martinzugec)
-
-![Subject Matter Expert process overview](/media/role-sme-overview.jpg)
 
 ## Mission Statement
 
@@ -19,6 +15,8 @@ Subject matter expert is primarily responsible for following areas:
 *  Help onboarding new contributors
 *  Review and approve new content requests / ideas
 *  Help with technical review of content
+
+![Subject Matter Expert process overview](/media/role-sme-overview.jpg)
 
 ## Contacts
 
