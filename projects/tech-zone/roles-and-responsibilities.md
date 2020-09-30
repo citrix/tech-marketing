@@ -18,3 +18,5 @@ Here are various roles involved in Tech Zone release process:
 [Operator](https://citrix.github.io/tech-marketing/projects/tech-zone/role-operator.html)
 
 [Copy Editor](https://citrix.github.io/tech-marketing/projects/tech-zone/role-copy-editor.html)
+
+![Tech Zone process overview](/media/roles-and-responsibilities-simple.jpg)

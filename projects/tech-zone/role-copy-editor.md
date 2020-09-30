@@ -20,3 +20,7 @@ Responsible for
 *  Markdown review - Image filenames and references are correct
 *  Markdown review - No markdown violations
 *  Markdown review - Article title and description are correct (also known as front matter)
+
+**Next step:** Use [#tm-techzone-contributors](https://citrix.slack.com/archives/C011E3EMX8W) (or Trello board) to request build of staging environment.
+
+Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).

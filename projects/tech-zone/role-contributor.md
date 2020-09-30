@@ -135,3 +135,5 @@ Standard markdown syntax requires one space after list character. Tech Zone impl
 ### Absolute links to docs.citrix.com
 
 Normal format of links in markdown language is `[text](https://url.com)`. However, when referencing content hosted on docs.citrix.com, you should use relative links only, starting with `/en-us/`. For example if you want to reference `https://docs.citrix.com/en-us/citrix-virtual-apps-desktops-service.html`, you should use syntax `[Citrix Virtual Apps and Desktops service](/en-us/citrix-virtual-apps-desktops-service.html)`. This is important to support other languages - relative links are automatically converted to localized language if page is available.
+
+Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).

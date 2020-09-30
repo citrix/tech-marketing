@@ -8,3 +8,5 @@ layout: default
 ## Mission Statement
 
 ![Tech Zone process overview](/media/role-operator-overview.jpg)
+
+Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).

@@ -91,3 +91,5 @@ Pay special atention to following:
 *  There are no white images on white background. If yes, add a black frame around them.
 
 **Next step:** Use [#tm-techzone-contributors](https://citrix.slack.com/archives/C011E3EMX8W) to request release to production. Include name of your branch (or URL).
+
+Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).

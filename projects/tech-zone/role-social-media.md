@@ -36,3 +36,7 @@ Finally, all content should be added to following Citrix channels:
 
 *  [tm_and_compete_news](https://citrix.slack.com/archives/CLT8ZKK9R)
 *  [SocialChorus (technical and Tech Zone channels)](https://studio.socialchorus.com/programs/10177/b2)
+
+**Next step:** Article card in Trello can be closed.
+
+Curious about other roles and responsibilities? You can find more information [here](https://citrix.github.io/tech-marketing/projects/tech-zone/roles-and-responsibilities.html).
