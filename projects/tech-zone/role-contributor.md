@@ -13,13 +13,14 @@ Tech Zone has always been oriented towards technical community, but now you can 
 
 ## Contact Tech Zone administrators
 
-If you need any help, reach out to Tech Zone team. Preferred method of contacting Citrix Tech Zone team is through one of the dedicated Slack channels. For Citrix employees, use an internal Slack channel `#tm-techzone-contributors`. For everyone else, use the Tech Zone Slack channel at [World of EUC](https://worldofeuc.slack.com/messages/CLKSAPFUG) workspace.
+If you need any help, reach out to Tech Zone team. Preferred method of contacting Citrix Tech Zone team is through one of the dedicated Slack channels. For Citrix employees, use an internal Slack channel [#tm-techzone-contributors](https://citrix.slack.com/archives/C011E3EMX8W). For everyone else, use the [Tech Zone Slack channel](https://worldofeuc.slack.com/messages/CLKSAPFUG) at [World of EUC](https://communityinviter.com/apps/worldofeuc/world-of-euc-project) workspace.
 
 If you prefer to use email, you can also reach out to us using [email](mailto:Tech-Content-Feedback@citrix.com).
 
 ## Onboarding
 
-Before you can start writing new articles, you need to create an account. Backend of Citrix Tech Zone is based on GitHub from Microsoft. After you account is created, you will also need to access contibutors agreement and let us know if you want your name displayed as contributor.
+Before you can start writing new articles, you need to create a GitHub account and get permissions to Tech Zone content repository. Citrix Tech Zone backend is based on GitHub from Microsoft.
+After you account is created with required permissions, you will also need to access contibutors agreement and let us know if you want your name displayed as contributor.
 
 ### Create an account
 
@@ -45,7 +46,7 @@ To make any changes to Tech Zone, you have to use a dedicated branch (think abou
 2.  Wait for link to your new branch. You get it through Slack or by email from Tech Zone team.
 3.  When you click on link, GitHub web editor opens with article you are working on. Read [Visual Studio Code (VSC) guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) to learn how to create a local copy of this branch for editing.
 
-You request for new branch will be reviewed by one of our subject matter experts (SME). This SME will be soon your best friend - they will navigate you through whole content creation / release process and help you with any questions you might have and obstacles you might encounter.
+You request for new branch will be reviewed by one of our subject matter experts (SME). SME is going to become your best friend - he will be your primary contact for everything Tech Zone related, help you with the content creation and take care of your doing the whole review and release process.
 
 ## 2 - Create content
 
@@ -80,6 +81,7 @@ To add images to your article, you need to do following:
 Image conventions:
 
 *  Use PNG format for images
+*  Only lower-case characters and dashes (`-`) are allowed. Underscore is reserved (see below)
 *  Use basic grayscale colors and icons / diagrams from brand team to create diagrams. Look at other Tech Zone content to follow same style and format.
 *  When your image has white background (e.g. screenshots from Citrix Cloud), add a 1px black frame around that picture. White on white does not look good.
 *  File name is using format `(category-name)_(article-name)_(image-name)`, where `category-name` and `article-name` are based on URL of the target article. For example tech-briefs_workspace-app_overview.png. “Category” is identical to category section of URL (e.g. ‘’/reference-architectures/”) and “article name” is identical to file name of the article (.md or .html file). `image-name` can be any format that you prefer, however it is recommended to use descriptive names.
