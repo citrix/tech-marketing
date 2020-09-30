@@ -3,8 +3,6 @@ layout: default
 ---
 # Tech Zone contributions
 
-## Contributors
-
 **Author:** [Martin Zugec](https://twitter.com/martinzugec)
 
 ## Overview

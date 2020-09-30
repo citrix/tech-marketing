@@ -3,8 +3,6 @@ layout: default
 ---
 # Visual Studio Code Guidelines
 
-## Contributors
-
 **Author:** [Daniel Feller](https://twitter.com/djfeller)
 
 ## Overview
