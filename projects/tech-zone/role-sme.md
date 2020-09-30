@@ -15,22 +15,23 @@ Help with making sure that Tech Zone content is relevant to our audience and pro
 
 Subject matter expert is primarily responsible for following areas:
 
+*  Act as primary Tech Zone contact and liaison for contributors
 *  Help onboarding new contributors
 *  Review and approve new content requests / ideas
 *  Help with technical review of content
 
 ## Contacts
 
-Following is list of SMEs for different technologies:
+Following is current list of SMEs for different technologies:
 
-*  Workspace - Dan Feller
-*  CVAD - Mayank Singh
-*  Networking - Matt Brooks
-*  CEM - Frank Srp
-*  Security - Florin Lazurca
-*  Secure Workspace Access - Dan Feller
-*  Analytics - Ana Ruiz
-*  Microapps - Ana Ruiz
+ Technology | Primary | Secondary |
+|------------|:-------:|-----------|
+| Analytics | Ana Ruiz | Dan Feller |
+| Endpoint Management | Frank Srp | Dan Feller |
+| Networking | Matt Brooks | Dan Feller |
+| Secure Workspace Access | Dan Feller | |
+| Security | Florin Lazurca | Dan Feller |
+| Workspace | Dan Feller | |
 
 ## Onboarding New Users
 
