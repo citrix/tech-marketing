@@ -44,8 +44,6 @@ Follow this [simple guide](https://citrix.github.io/tech-marketing/projects/tech
 
 To make any changes to Tech Zone, you have to use a dedicated branch (think about it as an isolated clone of Tech Zone only to be used for your new article or update of an existing article). Branch is required for new articles, but also if you are going to update an existing article.
 
-Another approach is to use you own fork of Tech Zone and just create a pull request, but this approach is recommended only for advanced GitHub users. If you are familiar with private forks and concept of pull requests, you can use this method.
-
 1.  Use one of the dedicated Slack channels to request a new branch. For new article, specify section of Tech Zone (e.g. Tech Insight) and title of the article (e.g. "Workspace app"). For existing, simply paste a URL.
 2.  Wait for link to your new branch. You get it through Slack or by email from Tech Zone team.
 3.  When you click on link, GitHub web editor opens with article you are working on. Read [Visual Studio Code (VSC) guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) to learn how to create a local copy of this branch for editing.
@@ -54,9 +52,13 @@ Your request for new branch will be reviewed by one of our subject matter expert
 
 ## 2 - Create content
 
-As many other large companies (for example Microsoft or Amazon), we are using de-facto industry standard language called markdown to create Tech Zone content. Markdown language is a simple, lightweight language that is easy to learn and allows us to create dynamic content. Think about markdown as a text-to-HTML conversion tool. It is highly recommend to read the [most common mistakes](#most-common-mistakes) section first - there is a learning curve and this short list can greatly help you to quickly learn this language.
+As many enteprises (for example Microsoft or Amazon), we are using de-facto industry standard language called markdown to create Tech Zone content. Markdown language is a simple, lightweight language that is easy to learn and allows us to create dynamic content. Think about markdown as a text-to-HTML conversion tool. It is highly recommend to read the [most common mistakes](#most-common-mistakes) section first - there is a learning curve and this short list can greatly help you to quickly learn this language.
 
-As a markdown editor, we recommend to use [Visual Studio Code (VSC)](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html). Don't be discouraged by Visual Studio in name - this tool is not only for developers, but useful as a general text editor. Be aware that editing GitHub content in browser is not supported at the moment and you need to make sure that correct name/email is configured in GitHub Desktop.
+For content creation, you need to use combination of **GitHub Desktop** (git client to resynchronize changes) and **Visual Studio Code** (markdown editor). Follow our simple [step-by-step guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) for configuration.
+
+  >**Important:**
+  >
+  >Editing GitHub directly in browser is NOT supported. While you will be able to make changes, it is not possible to merge them to staging/production environment.
 
 ### Writing text
 
@@ -68,7 +70,9 @@ Few additional recommendations:
 *  Write in a personal, friendly style. Do not use the style of academic discourse. Avoid using unusual words if there is a simpler variant
 *  Write in present tense. For example, "the product reports the result" instead of "the product will report the result."
 
-**IMPORTANT:** Only edit your article and image files. Many sections of the Tech Zone (e.g. landing page) are generated automatically and you don't need to care about them.
+  >**Important:**
+  >
+  >Only edit your markdown file and image files, do not try to edit other parts of Tech Zone. Many sections of the Tech Zone (e.g. landing page) are generated automatically and you don't need to care about them.
 
 ### Adding images
 
@@ -87,13 +91,13 @@ Image conventions:
 *  Use PNG format for images
 *  Only lower-case characters and dashes (`-`) are allowed. Underscore is reserved (see below)
 *  Use basic grayscale colors and icons / diagrams from brand team to create diagrams. Look at other Tech Zone content to follow same style and format.
-*  When your image has white background (e.g. screenshots from Citrix Cloud), add a 1px black frame around that picture. White on white does not look good.
+*  When your image has white background (e.g. screenshots from Citrix Cloud), add a 1px black frame around that picture. White image on white background does not look good.
 *  File name is using format `(category-name)_(article-name)_(image-name)`, where `category-name` and `article-name` are based on URL of the target article. For example tech-briefs_workspace-app_overview.png. “Category” is identical to category section of URL (e.g. ‘’/reference-architectures/”) and “article name” is identical to file name of the article (.md or .html file). `image-name` can be any format that you prefer, however it is recommended to use descriptive names.
 *  Underscore character (`_`) is used as delimiter and you should not use it in image name. Feel free to use hyphen in image name instead. Each image file name should contain exactly 2 underscore characters.
 
 When you are referencing your images in markdown language, you can use two different syntaxes.
 
-For simple images (screenshots), use format `![descriptive text](image URL)` with relative URL, for example `/en-us/tech-zone/design/media/design-decisions_provisioning-solutions_diagram-explicit.png`.
+For simple images (screenshots), use format `![descriptive text](image URL)` with relative URL, for example `![Simple Diagram](/en-us/tech-zone/design/media/design-decisions_provisioning-solutions_diagram-explicit.png)`.
 
 For images that should open full screen after clicking them, use format `[![descriptive text](image URL)](image URL)`. This will open image after reader clicks on it. This is typically recommended for images such as diagrams.
 
@@ -105,7 +109,7 @@ Generally - if you need to use multiple paragraphs of text, bullet points inside
 
 ## 3 - Review and Release Content
 
-When you are ready for content review, contact Tech Zone team. After technical, styling and grammar reviews are complete, you content will be released. Before asking for review - please make sure there are no markdown violations in your file (this is reported by Visual Studio Code). Subject matter expert will help you and guide you through review process.
+When you are ready for content review, ask your SME to start review process. After technical, styling and grammar reviews are complete, you content will be released. Before asking for review - please make sure there are no markdown violations in your file (this is reported by Visual Studio Code). Subject matter expert will help you and guide you through review process.
 
 ## Most Common Mistakes
 

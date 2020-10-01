@@ -11,6 +11,12 @@ Copy editor is responsible for making sure that content meets our quality and st
 
 ![Tech Zone process overview](/media/role-copy-editor-overview.jpg)
 
+## Contacts
+
+| Technology | Primary | Secondary |
+|------------|:-------:|-----------|
+| Acrolinx | Ana Ruiz | Martin Zugec |
+
 ## Responsibilities
 
 Responsible for

@@ -11,6 +11,14 @@ Social media promotion is done for all new content released on Citrix Tech Zone 
 
 ![Tech Zone process overview](/media/role-social-media-overview.jpg)
 
+## Contacts
+
+| Technology | Primary | Secondary |
+|------------|:-------:|-----------|
+| Social Media | Ana Ruiz | Martin Zugec |
+
+## Social Media Promotion
+
 Few best practices for social media promotions:
 
 *  Content does not always need to be promoted on the day it has been released

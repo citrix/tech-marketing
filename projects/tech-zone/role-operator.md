@@ -11,6 +11,12 @@ Responsible for all operations related to GitHub versioning and build process.
 
 ![Tech Zone process overview](/media/role-operator-overview.jpg)
 
+## Contacts
+
+| Technology | Primary | Secondary |
+|------------|:-------:|-----------|
+| GitHub | Martin Zugec | Beth Pollock |
+
 ## Adding contributors to Tech Zone
 
 When adding new contributors to Tech Zone, it is important to make sure they've provided consent for their contribution.
