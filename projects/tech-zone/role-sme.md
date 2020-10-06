@@ -29,6 +29,7 @@ Following is current list of SMEs for different technologies:
 | Networking | Matt Brooks | Dan Feller |
 | Secure Workspace Access | Dan Feller | |
 | Security | Florin Lazurca | Dan Feller |
+| Virtual Apps and Desktops | Mayank Singh | Dan Feller |
 | Workspace | Dan Feller | |
 
 ## Onboarding New Users
