@@ -27,7 +27,8 @@ Following is current list of SMEs for different technologies:
 | Analytics | Ana Ruiz | Dan Feller |
 | Endpoint Management | Frank Srp | Dan Feller |
 | Networking | Matt Brooks | Dan Feller |
-| Secure Workspace Access | Dan Feller | |
+| Secure Internet Access | Frank Srp | Dan Feller |
+| Secure Workspace Access | Florin Lazurca | Dan Feller |
 | Security | Florin Lazurca | Dan Feller |
 | Virtual Apps and Desktops | Mayank Singh | Dan Feller |
 | Workspace | Dan Feller | |
