@@ -32,7 +32,7 @@ There are two different methods how you can become one of the contributors, depe
 
 1.  Create your GitHub account with two-factor authentication enabled
 2.  Accept contributors agreement: [https://docs.citrix.com/en-us/settings.html](https://docs.citrix.com/en-us/settings.html). **This is a required step!**
-3.  Send us your GitHub user name (see [Contact Tech Zone administrators](#contact-tech-zone-administrators) section)
+3.  Send us email address associated with your GitHub account (see [Contact Tech Zone administrators](#contact-tech-zone-administrators) section)
 4.  Wait for validation email – you have to accept this invitation to become one of the Tech Zone contributors
 5.  Make sure that correct name and email address is configured in your GitHub Desktop (`File -> Options -> Git`)
 
