@@ -133,7 +133,7 @@ When you make changes on your local machine, you need to not only save them (`co
 
 ### Spaces after list markers
 
-Standard markdown syntax requires one space after list character. Tech Zone implementation requires 2 spaces after list character. This should be correctly reported by Visual Studio Code if you have followed all instructions in configuration guide.
+Standard markdown syntax requires one space after list character. Tech Zone implementation requires 2 spaces after list character. This should be correctly reported by Visual Studio Code if you have followed all instructions in the configuration guide.
 
     - One Space - NOT correct
     -  Two spaces - correct
