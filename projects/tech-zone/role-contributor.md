@@ -54,7 +54,7 @@ Your request for new branch will be reviewed by one of our subject matter expert
 
 As many enteprises (for example Microsoft or Amazon), we are using de-facto industry standard language called markdown to create Tech Zone content. Markdown language is a simple, lightweight language that is easy to learn and allows us to create dynamic content. Think about markdown as a text-to-HTML conversion tool. It is highly recommend to read the [most common mistakes](#most-common-mistakes) section first - there is a learning curve and this short list can greatly help you to quickly learn this language.
 
-For content creation, you need to use combination of **GitHub Desktop** (git client to resynchronize changes) and **Visual Studio Code** (markdown editor). Follow our simple [step-by-step guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) for configuration.
+For content creation, you need to use a combination of **GitHub Desktop** (git client to resynchronize changes) and **Visual Studio Code** (markdown editor). Follow our simple [step-by-step guide](https://citrix.github.io/tech-marketing/projects/tech-zone/visual-studio-code-guide.html) for configuration.
 
   >**Important:**
   >
@@ -113,14 +113,14 @@ When you are ready for content review, ask your SME to start review process. Aft
 
 ## Most Common Mistakes
 
-For contributors, basic understanding of markdown language and versioning (GitHub) is required. When working on Tech Zone content, we have seen few issues that are frequently occurring and we would like to cover them in this section.
+For contributors, a basic understanding of markdown language and versioning (GitHub) is required. When working on Tech Zone content, we have seen few issues that are frequently occurring and we would like to cover them in this section.
 
 ### Using the right fork / branch
 
 Versioning systems (like Git or Subversion) are useful for professional developers (especially for large and complicated projects), however they can be confusing for non-developers. While learning about versioning systems, pull requests and protected branches is definitely worth your time, you should follow few simple rules when working on Tech Zone content if you are not 100% comfortable with these advanced concepts:
 
 *  For any change to Tech Zone, you need a branch - this is required so that you don't impact other contributors. If you don't have a branch, contact one of the administrators
-*  Make sure you are using "martinzugec-ctx" fork (not your personal or Citrix fork)
+*  Make sure you are using the "citrixtechzone" fork (not your personal nor the  "citrix" fork)
 *  Never try to make any changes to `wip` or `master` branches (protected branches)
 
 **To fix:** Always confirm that you are using the right branch before making any changes.
@@ -129,7 +129,7 @@ Versioning systems (like Git or Subversion) are useful for professional develope
 
 When you make changes on your local machine, you need to not only save them (`commit` in git terminology), but also upload to central database (`push` in git terminology). Always make sure that you are doing both commit and push operations.
 
-**Note:** All your content development is done in a dedicated branch. You can push changes as often as you want and there is nothing that you can do that would have negative impact on Tech Zone.
+**Note:** All your content development is done in a dedicated branch. You can push changes as often as you want and there is nothing that you can do that would have a negative impact on Tech Zone.
 
 ### Spaces after list markers
 
