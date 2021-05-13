@@ -67,10 +67,11 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 1. Download GitHub Desktop [GitHub Desktop Download](https://desktop.github.com)
 1. When prompted, sign in to GitHub
-1. Select the Tech Zone repository and select clone. This process will take some time as a full clone of the Tech Zone is being stored on your endpoint.
+1. Select the Tech Zone repository (called ```citrixtechzone/en-us-tech-zone```) and select clone. This process will take some time as a full clone of the Tech Zone is being stored on your endpoint.
 
     ![GitHub Repository Clone](/media/visual-studio-code-guide_clone.png)
 
+1. If GitHub desktop asks how you are planning to use the fork, choose "For my own purposes". This ensures you contribute to the correct repository under ```citrixtechzone/en-us-tech-zone```
 1. Make sure that your Citrix email address and name is configured in **File** -> **Options** -> **Git**. This is a required step to prevent alerts when publishing your content.
 
     ![GitHub Account](/media/visual-studio-code-guide_email.png)
@@ -79,7 +80,7 @@ Using GitHub Desktop and Visual Studio Code helps simplify the creation of Tech 
 
 Once the clone is complete, you get to the main GitHub Desktop screen.
 
-1. Select the correct repository.
+1. Select the correct repository (```citrixtechzone/en-us-tech-zone```)
 1. Select the correct branch for your changes.
 1. Select "Open in Visual Studio Code"
 
