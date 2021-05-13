@@ -27,6 +27,20 @@ This will mean that you will need to change where you clone from and push to. Bu
 
 ## What do I need to do?
 
+Please read this section in its entirety.
+
+### If you are actively working on a branch
+
+(that is, you're currently writing a document for tech zone in a branch)
+
+You'll need to open up Github Desktop and:
+
+1.  Commit any changes you've made
+1.  Push those changes, so they appear in your branch on <https://github.com/martinzugec-ctx/en-us-tech-zone>
+1.  Then follow the migration guide: [Migration Guide](new-development-url-migration-guide.html).
+
+### If you're not actively working on a branch
+
 You’ll need to migrate your development environment to the new repository under <https://github.com/citrixtechzone/en-us-tech-zone>
 
 If you use GitHub Desktop and Visual Studio Code, we have prepared a migration guide for this: [Migration Guide](new-development-url-migration-guide.html).

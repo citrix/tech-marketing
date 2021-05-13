@@ -21,7 +21,7 @@ To do this you’ll need to:
 ## Clone the new repository in Github desktop
 
 1.  Open GitHub Desktop
-1.  Either press Ctrl+T to bring up your repositories, or click on the "Current repository" drop down in the UI
+1.  Click on the "Current repository" drop down in the UI
 1.  Clone the new repository location by choosing Add > Clone Repository
    ![Clone Repository](/media/new-development-url-migration-guide_clone-repository.png)
 1.  In the popup, choose URL and then paste in the following URL: <https://github.com/citrixtechzone/en-us-tech-zone>
