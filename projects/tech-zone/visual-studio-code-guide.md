@@ -102,7 +102,8 @@ You must ensure that you Trust the workspace you're working from.
 
 Here's an example where I've clicked Manage and can then Trust the Workspace:
 
-    ![Visual Studio Code Trust](/media/visual-studio-code-guide_trust-settings.png)
+[![Visual Studio Code Trust Settings](/media/visual-studio-code-guide_trust-settings.png)](/tech-marketing/projects/tech-zone/media/visual-studio-code-guide_trust-settings.png)
+
 
 ## GitHub Desktop Setup
 
